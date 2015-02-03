@@ -23,13 +23,3 @@ class BitwiseExtractBitNumber3
         Console.WriteLine("Bit #3: {0}", result);
     }
 }
-
-namespace Bitwise_Extract_Bit_3
-{
-    class BitwiseExtractBit3
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-}
